@@ -20,7 +20,10 @@ the model shown in descending order.
 
 ## Credit
 
-Kanitnuch Kerdted \n
-Kotchakorn Bunamorn \n
-Korapat Thongwattananon \n
+Kanitnuch Kerdted 
+
+Kotchakorn Bunamorn 
+
+Korapat Thongwattananon 
+
 Pannaruj Viseskul
