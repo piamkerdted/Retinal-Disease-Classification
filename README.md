@@ -33,3 +33,7 @@ the model shown in descending order.
 Korapat Thongwattananon 
 
 Pannaruj Viseskul
+
+## Acknowledgements
+
+https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
