@@ -19,7 +19,7 @@ the model shown in descending order.
 
 ## Built With
 
-* [OpenCV](https://github.com/opencv/opencv) - Image processing and manipulation
+* [Pillow](https://github.com/python-pillow/Pillow) - Image processing and manipulation
 
 * [Keras](https://github.com/keras-team/keras) - Modeling
 
