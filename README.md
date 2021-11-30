@@ -18,11 +18,11 @@ dense layers with soft-max function to make prediction. We used ReLU as activati
 The model has an accuracy of 1.00. The output is the probabilities (0,1) of the diseases present in the fundus depicted in the input image as predicted by 
 the model shown in descending order.
 
-## Credit
+## Credits
 
 Kanitnuch Kerdted 
 
-Kotchakorn Bunamorn 
+[Kotchakorn Bunamorn](https://github.com/IamFah)
 
 Korapat Thongwattananon 
 
