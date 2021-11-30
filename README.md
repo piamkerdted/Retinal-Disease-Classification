@@ -1,7 +1,6 @@
 # Retinal-Disease-Classification
 
-According to the WHO (2020), it is estimated that at least 2.2 billion people worldwide are affected by visual impairment. We aim to mitigate the impacts of 
-eye care professional scarcity by creating a multi-label retinal disease classification CNN-based model.
+The world faces a severe shortage of trained eye care professionals. According to the WHO (2020), it is estimated that at least 2.2 billion people worldwide are affected by visual impairment. We aim to mitigate the impacts of  eye care professional scarcity by creating a multi-label retinal disease classification CNN-based model.
 
 ## Data
 
