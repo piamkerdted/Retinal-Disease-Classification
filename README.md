@@ -20,7 +20,7 @@ the model shown in descending order.
 
 ## Credits
 
-Kanitnuch Kerdted 
+[Kanitnuch Kerdted](https://github.com/piamkerdted)
 
 [Kotchakorn Bunamorn](https://github.com/IamFah)
 
