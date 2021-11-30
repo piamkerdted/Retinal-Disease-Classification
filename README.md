@@ -12,12 +12,16 @@ Our CNN-based multi-label classification model gets rescaled fixed sized input f
 layers where each layer is followed by a max-pooling layer and a dropout layer of probability 0.25. The fourth convolutional layer is followed by flatten and
 dense layers with soft-max function to make prediction. We used ReLU as activation functions. The layers of our model can be seen below. 
 
+
+![CNN Layers](https://user-images.githubusercontent.com/75216302/143999664-5500a620-0253-46e6-b1dc-0000dde56f0b.png)
+
 ## Results 
 
 The model has an accuracy of 1.00. The output is the probabilities (0,1) of the diseases present in the fundus depicted in the input image as predicted by 
 the model shown in descending order.
 
-![CNN Layers]()
+![Input and Output of X_test[100]](https://user-images.githubusercontent.com/75216302/143999996-c1c1ad42-e0c6-46bd-bd0f-bb573d4150a6.png)
+
 
 ## Built With
 
