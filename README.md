@@ -20,9 +20,9 @@ the model shown in descending order.
 
 ## Built With
 
-⋅⋅*[OpenCV](https://github.com/opencv/opencv) - Image processing and manipulation
+* [OpenCV](https://github.com/opencv/opencv) - Image processing and manipulation
 
-⋅⋅*[Keras](https://github.com/keras-team/keras) - Modeling
+* [Keras](https://github.com/keras-team/keras) - Modeling
 
 ## Credits
 
